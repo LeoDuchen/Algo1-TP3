@@ -1,2 +1,3 @@
-# Algo1-TP3
-Tercer trabajo práctico para Algoritmos y Programación I, FIUBA, 2C-2019
+# Trabajo Práctico 3 de Algoritmos y Programación I
+
+Trabajo Práctico 3 de Algoritmos y Programación I de FIUBA (Cátedra Méndez)
